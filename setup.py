@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='koala_cron',
     packages=['koala_cron'],
-    version='0.1.1',
+    version='0.2.1',
     license='MIT',
     description='for HODP internal use',
     author='kevalii',

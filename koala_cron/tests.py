@@ -1,7 +1,7 @@
 from time import sleep
 from sys import argv
 
-from src.monitor import Monitor
+from monitor import Monitor
 
 
 class CustomError1(BaseException):

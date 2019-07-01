@@ -1,1 +1,1 @@
-from src.monitor import Monitor
+from koala_cron.monitor import Monitor
